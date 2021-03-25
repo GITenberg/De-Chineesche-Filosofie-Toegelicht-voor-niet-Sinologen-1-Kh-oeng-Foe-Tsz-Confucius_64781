@@ -1,11 +1,16 @@
 _repo: De-Chineesche-Filosofie-Toegelicht-voor-niet-Sinologen-1-Kh-oeng-Foe-Tsz-Confucius_64781
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64781-h/images/frontcover.png
 creator:
   author:
     agent_name: Borel, Henry
     gutenberg_agent_id: '53048'
     url: http://www.gutenberg.org/2009/agents/53048
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64781#De-Chineesche-Filosofie-Toegelicht-voor-niet-Sinologen-1-Kh-oeng-Foe-Tsz-Confucius
 gutenberg_issued: '2021-03-10'
 gutenberg_type: Text
 identifiers:
